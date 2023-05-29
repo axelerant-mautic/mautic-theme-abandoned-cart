@@ -1,0 +1,9 @@
+{
+  "name": "Abandoned Cart",
+  "author": "Axelerant",
+  "authorUrl": "https://axelerant.com",
+  "builder": ["grapesjsbuilder"],
+  "features": [
+    "email"
+  ]
+}
