@@ -1,0 +1,21 @@
+{
+  "name": "axelerant/abandonedcart",
+  "description": "Mautic Theme for Abandoned Cart Emails",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Axelerant",
+      "email": "hello@axelerant.com"
+    },
+    {
+      "name": "Gautar Chauhan",
+      "email": "gchauhan8726@gmail.com"
+    },
+    {
+      "name": "Rahul Shinde",
+      "email": "shinde.r.a@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
